@@ -10,7 +10,10 @@
 - ```void mp_clear_multi``` - служит для очистки памяти.
 - ```int mp_toradix(mp_int * a, char *str, int radix)``` - функция записывает числовое значение в переменную символьного типа в выбранной системе счисления. Используется в функции ```void ToText```.
 - ```int mp_read_radix(mp_int * a, char *str, int radix)``` - функция “заносит” числовое значение, хранящееся в  строке в виде отдельных числовых символов в ```mp_int``` так, что с ```mp_int```, имеющим значение, можно производить различные операции.
-- ```mp_mulmod(const mp_int *a, const mp_int *b, const mp_int *c, mp_int *d)``` - функция выполняет следующую операцию: *d = a * b (mod c)*
+- ```mp_mulmod(const mp_int *a, const mp_int *b, const mp_int *c, mp_int *d)``` - функция выполняет следующую операцию: 
+*d = a * b (mod c)*
+- ```mp_addmod(const mp_int *a, const mp_int *b, const mp_int *c, mp_int *d)``` - функция выполняет следующую операцию:
+*d = a + b (mod c)*
 
 
 ## Теоретическая вставка
