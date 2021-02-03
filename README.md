@@ -46,6 +46,8 @@
 
 ![Альтернативный текст](https://sun9-15.userapi.com/impg/sxAAANcRSo4nOb5Ky2oCtebqd2SOxa7alrJ_Uw/UFfBU1OJAvU.jpg?size=326x33&quality=96&proxy=1&sign=6ffe5281b033338768a560e61821746a&type=album)
 
+с условием эквивалентности
+![Альтернативный текст](https://sun9-69.userapi.com/impg/BqXIpDcWeipn5NziiOQRU9nzfUr7DJvLqLmfLA/5pbX63590_g.jpg?size=367x21&quality=96&proxy=1&sign=7af2f16a17c320aeeb8cccda84579c28&type=album)
 
 ## Параметры и алгоритм возведения в степень
 
