@@ -13,8 +13,10 @@
 - ```mp_mulmod(const mp_int *a, const mp_int *b, const mp_int *c, mp_int *d)``` - функция выполняет операцию: *d = a * b (mod c)*
 - ```mp_addmod(const mp_int *a, const mp_int *b, const mp_int *c, mp_int *d)``` - функция выполняет операцию: *d = a + b (mod c)*
 - ```mp_sqrmod(const mp_int *a, const mp_int *b, mp_int *c)``` - функция выполняет операцию: *c = a * a (mod b)*
+- ```mp_neg(const mp_int *a, const mp_int *a)``` - функция выполняет операцию: *a = -a*
+- ```mp_mod(const mp_int *a, const mp_int *b, const mp_int *a)``` - функция выполняет операцию: *a = a (mod b)*
 - ```mp_submod(const mp_int *a, const mp_int *b, const mp_int *c, mp_int *d)``` – функция выполняет операцию: *d = a - b (mod c)*
-- ```int mp_cmp_mag(mp_int * a, mp_int * b)``` - функция сравнения: a сравнивается с b. Принимает значение *MP_EQ (a=b), MP_GT (a>b), MP_LT (a<b)*.
+- ```int mp_cmp_mag(mp_int * a, mp_int * b)``` - функция сравнения: a сравнивается с b. Принимает значение *MP_EQ (a==b), MP_GT (a>b), MP_LT (a<b)*.
 
 
 
