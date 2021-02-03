@@ -69,6 +69,7 @@
 ![Альтернативный текст](https://sun9-55.userapi.com/impg/FP1xfw8FyxH9f4O_lksAeYb0i2BQoGc_YIIAoQ/qYZdzM3iGvE.jpg?size=1044x330&quality=96&proxy=1&sign=55ad5f421327d6a88534916ca54c439b&type=album)
 
 Точка **O** – особая выделенная точка с решением на проектной кривой *(0; 1; 0)*.
+![Альтернативный текст](https://sun9-14.userapi.com/impg/bBkCNRNbqSgf679Nou5ti2qAAwrBZJ8TPMIrZg/VSk1UWxx3QY.jpg?size=56x22&quality=96&proxy=1&sign=95c58721e6ba3fb4870d5f8278f98f3f&type=album)
 
 Операции удвоения точки и сложения точек были взяты отсюда:
 http://hyperelliptic.org/EFD/g1p/auto-twisted-projective.html
