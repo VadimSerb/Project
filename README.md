@@ -53,6 +53,9 @@
 ![Альтернативный текст](https://sun9-14.userapi.com/impg/bBkCNRNbqSgf679Nou5ti2qAAwrBZJ8TPMIrZg/VSk1UWxx3QY.jpg?size=56x22&quality=96&proxy=1&sign=95c58721e6ba3fb4870d5f8278f98f3f&type=album)
 
 В проективных координатах точка P с координатами *(x : y)* переходит в точку с координатами *(X : Y : Z)*
+![Альтернативный текст](https://sun9-19.userapi.com/impg/kfcOrjCPiLdzmyNfzylZ2w8tb24iD1OA49oPUw/t2RO2PEKhp4.jpg?size=71x22&quality=96&proxy=1&sign=4bd03d754b484c1cbff69d0485d46bc6&type=album)
+
+Переход осуществляется по формулам:
 
 ## Параметры и алгоритм возведения в степень
 
