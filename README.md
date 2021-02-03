@@ -25,10 +25,13 @@
 - ```mp_mod(const mp_int *a, const mp_int *b, const mp_int *a)``` - функция выполняет операцию: *a = a (mod b)*
 - ```mp_submod(const mp_int *a, const mp_int *b, const mp_int *c, mp_int *d)``` – функция выполняет операцию: *d = a - b (mod c)*
 - ```int mp_cmp_mag(mp_int * a, mp_int * b)``` - функция сравнения: a сравнивается с b. Принимает значение *MP_EQ (a==b), MP_GT (a>b), MP_LT (a<b)*.
-
+- ```mp_count_bits(mp_int * a)```- функция получает количество бит числа a. Применяется в функции ```struct Point BinaryMethod```.
+- ```mp_get_bit(mp_int * a, unsigned long i)``` - функция получает значение i-го бита числа a.  Применяется в функции ```struct Point BinaryMethod```.
 
 
 ## Теоретическая вставка
+
+
 
 ## Параметры и алгоритм возведения в степень
 
