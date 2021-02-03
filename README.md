@@ -49,6 +49,7 @@
 с условием эквивалентности
 ![Альтернативный текст](https://sun9-69.userapi.com/impg/BqXIpDcWeipn5NziiOQRU9nzfUr7DJvLqLmfLA/5pbX63590_g.jpg?size=367x21&quality=96&proxy=1&sign=7af2f16a17c320aeeb8cccda84579c28&type=album)
 
+причем точка *(0; 0; 0)* не принадлежит 
 ## Параметры и алгоритм возведения в степень
 
 Параметры для эллиптической кривой в искривленной/скрученной форме Эдвардса:  (см. ГОСТ Р 34.10-2012: https://docplayer.ru/46408167-Tehnicheskiy-komitet-026-zadanie-parametrov-skruchennyh-ellipticheskih-krivyh-edvardsa-v-sootvetstvii-s-gost-r.html)
