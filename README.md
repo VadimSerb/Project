@@ -56,6 +56,7 @@
 ![Альтернативный текст](https://sun9-19.userapi.com/impg/kfcOrjCPiLdzmyNfzylZ2w8tb24iD1OA49oPUw/t2RO2PEKhp4.jpg?size=71x22&quality=96&proxy=1&sign=4bd03d754b484c1cbff69d0485d46bc6&type=album)
 
 Переход осуществляется по формулам:
+![Альтернативный текст](https://sun9-35.userapi.com/impg/k_Nh1Hdq9AYIUGdDp1wYm8Jc93gUljV0EUk9YA/kOPTA0q4ROM.jpg?size=233x43&quality=96&proxy=1&sign=3073c188348c05ffb72324da91fb448c&type=album)
 
 ## Параметры и алгоритм возведения в степень
 
