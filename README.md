@@ -99,6 +99,21 @@ http://hyperelliptic.org/EFD/g1p/data/twisted/projective/doubling/mdbl-2008-bbjl
 
 ## Тестирование программы
 
+1. Тест: проверка принадлежности результирующей точки кривой:
+![Альтернативный текст](https://sun9-68.userapi.com/impg/CrH2cMiq8JAHrEqBhKCXqND6Zq_8JVf84GMIRw/BP80daV-RWk.jpg?size=2346x1194&quality=96&proxy=1&sign=3cc5413cc42cb7b2108c4c48fc83be40&type=album)
+
+2. Тест: проверка того, что *[q]P = O*, где q – порядок группы точек.
+![Альтернативный текст](https://sun9-55.userapi.com/impg/vVrIL23sJuw15GhTudhem3HhPGR1uE_dLpFkdA/ymRGHJXJX60.jpg?size=2526x1302&quality=96&proxy=1&sign=37b52634c6483563d8437fb829e55548&type=album)
+
+3.1. Тест: проверка того, что *[q + 1]P = P*.
+![Альтернативный текст](https://sun9-30.userapi.com/impg/f0rciaPTqnMHad2GoHz8ynguEO2xcmI73Xdvdg/jjC_Vwoxsfo.jpg?size=2548x1352&quality=96&proxy=1&sign=dfffc9b648452ee375ca88dc180a3bee&type=album)
+
+3.2. Тест: проверка того, что *[q − 1]P = −P*.
+
+4. Тест: проверка того, что для двух случайных *k1* и *k2* выполняется: *[k1]P + [k2]P = [k1 + k2]P* 
+
+![Альтернативный текст](https://sun9-49.userapi.com/impg/IsMAcy79I53OF8bN0U6Agpg3bfYHM1cf6e7muQ/imnIdugpECc.jpg?size=2524x1226&quality=96&proxy=1&sign=1508ad241856197885303fc193c376f2&type=album)
+
 ## Источники
 
 - Официальная документация библиотеки LibTomMath доступна по ссылке: https://docviewer.yandex.ru/view/158126255/?page=30&*=7xuiznXmFLC1blVp%2BowakWJzq357InVybCI6Imh0dHBzOi8vZ3RvYWwuY29tL3NyYy9tb2JpL2NsaXQxOC9saWJ0b21tYXRoLTAuNDEvYm4ucGRmIiwidGl0bGUiOiJibi5wZGYiLCJub2lmcmFtZSI6dHJ1ZSwidWlkIjoiMTU4MTI2MjU1IiwidHMiOjE2MDM2NTgzMTk5NjcsInl1IjoiNjQ5OTUwODY3MTU3MjI5ODkzOSIsInNlcnBQYXJhbXMiOiJsYW5nPWVuJnRtPTE2MDM0NjcwMDgmdGxkPXJ1Jm5hbWU9Ym4ucGRmJnRleHQ9bGlidG9tbWF0aCtkb2N1bWVudGF0aW9uJnVybD1odHRwcyUzQS8vZ3RvYWwuY29tL3NyYy9tb2JpL2NsaXQxOC9saWJ0b21tYXRoLTAuNDEvYm4ucGRmJmxyPTIxMyZtaW1lPXBkZiZsMTBuPXJ1JnNpZ249OTI2OTRkZGZkMmUyYTMyY2ZlOTkxOGUxNDMyYTAwNTcma2V5bm89MCJ9&lang=en
