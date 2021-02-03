@@ -109,12 +109,11 @@ http://hyperelliptic.org/EFD/g1p/data/twisted/projective/doubling/mdbl-2008-bbjl
 ![Альтернативный текст](https://sun9-30.userapi.com/impg/f0rciaPTqnMHad2GoHz8ynguEO2xcmI73Xdvdg/jjC_Vwoxsfo.jpg?size=2548x1352&quality=96&proxy=1&sign=dfffc9b648452ee375ca88dc180a3bee&type=album)
 
 3.2. Тест: проверка того, что *[q − 1]P = −P*.
-![Альтернативный текст](https://sun9-49.userapi.com/impg/IsMAcy79I53OF8bN0U6Agpg3bfYHM1cf6e7muQ/imnIdugpECc.jpg?size=2524x1226&quality=96&proxy=1&sign=1508ad241856197885303fc193c376f2&type=album)
+![Альтернативный текст](https://sun9-70.userapi.com/impg/07uAOvan_OCTjSBO4XOOGVPMmtr0ahCQba46fA/9XKjKLcqfx0.jpg?size=2508x1056&quality=96&proxy=1&sign=bbee1b2948f31189e04e3356a10aba56&type=album)
 
 4. Тест: проверка того, что для двух случайных *k1* и *k2* выполняется: *[k1]P + [k2]P = [k1 + k2]P* 
 Пояснения: первые три координаты - результат *[k1]P + [k2]P*, три последующие - *[k1 + k2]P*
-
-![Альтернативный текст](https://sun9-70.userapi.com/impg/07uAOvan_OCTjSBO4XOOGVPMmtr0ahCQba46fA/9XKjKLcqfx0.jpg?size=2508x1056&quality=96&proxy=1&sign=bbee1b2948f31189e04e3356a10aba56&type=album)
+![Альтернативный текст](https://sun9-49.userapi.com/impg/IsMAcy79I53OF8bN0U6Agpg3bfYHM1cf6e7muQ/imnIdugpECc.jpg?size=2524x1226&quality=96&proxy=1&sign=1508ad241856197885303fc193c376f2&type=album)
 
 ## Источники
 
